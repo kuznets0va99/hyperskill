@@ -1,0 +1,1 @@
+You have to find out the square, cube and fourth power of a given positive integer. The input will be a single line containing a single positive integer (n). The output should be three lines, first line prints the square of n, next line prints the cube of n and third line prints the fourth power of n.
