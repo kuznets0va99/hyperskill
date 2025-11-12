@@ -1,0 +1,1 @@
+Write a Java program that reads a positive integer from the user, representing a duration in minutes. The program should calculate and print the equivalent time duration in hours and minutes. If the input is 367 for example, the output should be '6 hours and 7 minutes'.
