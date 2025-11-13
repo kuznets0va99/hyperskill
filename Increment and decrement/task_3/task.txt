@@ -1,0 +1,1 @@
+Given an integer n, print the value of n after applying the following operations: increment n by 1, then decrement n by 2, then double the resulting value of n.
