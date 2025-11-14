@@ -1,0 +1,5 @@
+Write a program that reads a temperature in Celsius (°C) and shows its equivalent in Fahrenheit (°F).
+
+Use the following formula:
+
+F = C * 1.8 + 32
