@@ -18,6 +18,6 @@ class Main {
             else if ("C".equals(inp)) c++;
             else if ("D".equals(inp)) d++;
         }
-        System.out.printf("%d %d %d %d", a, b, c, d);
+        System.out.printf("%d %d %d %d", d, c, b, a);
     }
 }
