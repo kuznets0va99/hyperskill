@@ -1,0 +1,1 @@
+You need to implement printCorners method. It should print all corner elements of the twoDimArray in the following order: left to right and top to bottom.
