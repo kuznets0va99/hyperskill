@@ -1,0 +1,1 @@
+Write a Java program that receives a string representing a sentence. Your program should find the longest word in the sentence and print it out. Assume that the words in the sentence are separated by a single space and there are no punctuation marks.
