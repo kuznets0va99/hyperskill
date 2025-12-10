@@ -1,0 +1,3 @@
+Write a method that calculates the factorial of a given number.
+
+The factorial of n is calculated by the product of integer number from 1 to n (inclusive). The factorial of 0 is equal to 1.

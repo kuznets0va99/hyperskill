@@ -1,3 +1,1 @@
-You're given the method power that takes two int numbers n and m. The method should return the value of nm as a long value.
-
-Write a body of the method.
+Write a method with the name sign that takes an int number and checks whether the number is negative, positive or zero. The method should return -1, +1 or 0 respectively.
