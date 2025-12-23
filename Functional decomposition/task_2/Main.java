@@ -14,7 +14,7 @@ class MultipleFunction {
         if (x <= 0){
             return f1(x);
         } else if (x >= 1) {
-            return  f3(x);
+            return f3(x);
         } else {
             return f2(x);
         }

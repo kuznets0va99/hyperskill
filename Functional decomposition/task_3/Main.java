@@ -11,11 +11,11 @@ public class Main {
 
     public static String f(int x) {
         if ((x % 3 == 0) && (x % 5 == 0)){
-            return isDivByThreeAndFive(x);
+            return isDivByThreeAndFive();
         } else if (x % 3 == 0) {
-            return isDivByThree (x);
+            return isDivByThree();
         } else if (x % 5 == 0){
-            return isDivByFive(x);
+            return isDivByFive();
         }
         else {
             return "None";
