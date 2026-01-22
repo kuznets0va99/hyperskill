@@ -1,0 +1,1 @@
+Write a method that checks if the object passed to it is null or not. If it is null, the method must print "It's null" and if not it must print "It's an object".
