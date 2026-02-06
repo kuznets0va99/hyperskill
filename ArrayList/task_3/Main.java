@@ -13,7 +13,7 @@ class ConcatPositiveNumbersProblem {
                 list.add(l1.get(i));
             }
         }
-        
+
         for (int i = 0; i < l2.size(); i++){
             if (l2.get(i) > 0){
                 list.add(l2.get(i));
