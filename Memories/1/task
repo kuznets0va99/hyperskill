@@ -1,0 +1,1 @@
+Given a lowercase character, write a program that prints the next character in the alphabet. If the input character is 'z', print 'a'. Input: A single lowercase character. Output: The next character in the alphabet after the input character.
