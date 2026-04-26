@@ -1,0 +1,1 @@
+You are given an array of numbers called numbers. Write a cycle that logs even for each even number and odd for odd numbers. If the number is 0, the program must stop processing the numbers.
