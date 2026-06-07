@@ -1,0 +1,11 @@
+Implement a method called pow2 that takes a collection of numbers and returns a collection of squares of these numbers.
+
+Do not modify elements of the given collection, create a new one and return it as the result instead.
+
+Sample Input 1:
+
+10 20 -5
+
+Sample Output 1:
+
+100 400 25
