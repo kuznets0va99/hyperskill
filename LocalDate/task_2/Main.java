@@ -14,13 +14,13 @@ public class Main {
         YearMonth yearMonth = YearMonth.of(year, month);
         int days = yearMonth.lengthOfMonth();
 
-        List<Integer> list = new ArrayList<>();
+        List<LocalDate> list = new ArrayList<>();
         for (int i = 1; i <= days; i++){
             LocalDate date = LocalDate.of(year,month,i);
             if (date.getDayOfWeek() == DayOfWeek.MONDAY){
-                list.add(i);
+                list.add(date);
             }
         }
-        System.out.println(list);
+        list.forEach(System.out::println);
     }
 }
